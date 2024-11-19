@@ -4,6 +4,9 @@
 
 Welcome to the **Grocery Store Application** built with **Python**, **Flask**, and **MySQL**. This project provides a simple platform to manage products, track orders, and perform basic **CRUD** (Create, Read, Update, Delete) operations. It follows a **vertical slice development approach**, starting with the database setup and then integrating the frontend.
 
+![Screenshot 2024-11-19 212344 copy](https://github.com/user-attachments/assets/b249022e-3dd1-44d2-9e04-c2116736683b)
+
+
 ### Key Features:
 - **Database Setup**: MySQL database with tables for products, units of measurement (UOM), orders, and order details.
 - **Backend API**: Python Flask app connected to MySQL using **MySQL Connector**.
@@ -44,7 +47,8 @@ In **MySQL Workbench**, create a new database and follow the steps to add tables
 
 Each table should have **foreign key relationships** to ensure data integrity.
 
-![db](https://github.com/user-attachments/assets/cb6be579-6646-40dd-b39d-8a4b2fe7c59a)
+![db copy](https://github.com/user-attachments/assets/7828e3cf-b334-406d-895c-1497b7d74f47)
+
 
 #### 3. **Install Python Dependencies**
 
