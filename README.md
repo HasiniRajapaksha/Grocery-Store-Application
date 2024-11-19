@@ -44,7 +44,7 @@ In **MySQL Workbench**, create a new database and follow the steps to add tables
 
 Each table should have **foreign key relationships** to ensure data integrity.
 
-> **Insert Image**: Screenshot of the MySQL Workbench schema here (replace placeholder).
+![db](https://github.com/user-attachments/assets/cb6be579-6646-40dd-b39d-8a4b2fe7c59a)
 
 #### 3. **Install Python Dependencies**
 
